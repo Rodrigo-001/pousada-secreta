@@ -61,7 +61,7 @@ a:hover{
 
 /* TITULO */
 .titulo-site{
-  background-image: url(assets/img-fundo.jpg);
+  background-image: url(../assets/img-fundo.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;

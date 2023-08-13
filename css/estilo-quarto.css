@@ -62,7 +62,7 @@ a:hover {
 }
 
 .imagem-fixa {
-    background: url('assets/img-fundo.jpg') no-repeat fixed ;
+    background: url('../assets/img-fundo.jpg') no-repeat fixed ;
     background-repeat: no-repeat;
   background-size: cover;
   height: 30%;
